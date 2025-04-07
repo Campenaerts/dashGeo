@@ -7,3 +7,4 @@ pyarrow==15.0.0
 shapely==2.0.2
 pyproj==3.6.1
 mapclassify==2.7.0
+gunicorn
